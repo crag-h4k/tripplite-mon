@@ -1,0 +1,6 @@
+gcc
+libusb-1.0-0-dev
+libudev-dev
+python3-pyudev
+python3-pip
+ 
